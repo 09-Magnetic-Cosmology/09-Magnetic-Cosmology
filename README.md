@@ -6,6 +6,14 @@ Further structured materials are available within the repository modules.
 
 ---
 
+## Magnetic Registration
+
+2026 · LMR–RML
+
+Reserved, preserved, observed, and registered within the Zeeman magnetic spectrum.
+
+---
+
 ## 2025 Cycle Snapshot
 
 # 09 Magnetic Cosmology
