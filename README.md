@@ -1,12 +1,14 @@
-## Entry Point
+## 2026 Cycle Entry Point
 
 This repository serves as a public orientation layer for the 09 Magnetic Cosmology framework.
 
 Further structured materials are available within the repository modules.
 
+---
+
+## 2025 Cycle Snapshot
 
 # 09 Magnetic Cosmology
-
 **Formerly referenced as:** PGS – Magnetic Cosmology  
 **Current name:** 09 Magnetic Cosmology
 
@@ -58,7 +60,4 @@ This repository functions as a **public evaluation archive**, not a discussion f
 
 ## Status
 
-This snapshot is intentionally stable.
-
-- No further edits are planned for this cycle.
-- Clarifications, expansions, and refinements occur in subsequent cycles.
+This snapshot represents the closure of a completed magnetic cycle (2025) and is preserved in its original state.
